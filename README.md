@@ -1,1 +1,1 @@
-
+This project focuses on conducting exploratory data analysis (EDA) on COVID-19 data using Microsoft SQL Server and visualizing the insights gained through Tableau. The analysis spans from the onset of the pandemic up to the current year, 2024. The dataset, sourced from https://ourworldindata.org/covid-deaths, includes information on COVID-19 deaths and vaccinations, providing valuable insights into the progression and impact of the pandemic.
